@@ -1,5 +1,5 @@
 # Power_BI_Henry
-
+![Portada](https://github.com/Floryofre/Power_BI_Henry/blob/main/Captura%20de%20pantalla%20(947).png?raw=true)
 En este proyecto trabajamos exclusivamente con Power BI y Power Query
 
 Adventure Works Cycles
